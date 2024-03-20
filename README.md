@@ -1,4 +1,4 @@
-<h1>Basic Remponsive Html and CSS Design</h1>
+<h1>Basic Responsive Html and CSS Design</h1>
 <p>Landing Page with navbar bar and lots of images </p>
 
 <h1>Technology Used </h1>
